@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://brewlabs.info/</loc>
+  </url>
+  <url>
+    <loc>https://brewlabs.info/factory</loc>
+  </url>
+  <url>
+    <loc>https://brewlabs.info/#friends</loc>
+  </url>
+  <url>
+    <loc>https://brewlabs.info/#faq</loc>
+  </url>
+  <url>
+    <loc>https://earn.brewlabs.info/pools</loc>
+  </url>
+  <url>
+    <loc>https://earn.brewlabs.info/staking</loc>
+  </url>
+  <url>
+    <loc>https://freezer.brewlabs.info/</loc>
+  </url>
+</urlset>
